@@ -1,0 +1,4 @@
+# profile	steps	prompt
+short	128	Write one concise sentence about distributed inference.
+long	512	Explain in detail how to optimize transformer inference throughput on a single node while balancing latency and stability.
+leaderboard	256	[REPLACE_WITH_OFFICIAL_LEADERBOARD_PROMPT]
